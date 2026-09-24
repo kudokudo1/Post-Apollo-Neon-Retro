@@ -1,0 +1,40 @@
+@define-color rice_bg #1B0623;
+@define-color rice_cyan #55CFCA;
+@define-color rice_orange #ED981A;
+@define-color rice_magenta #C74EC7;
+@define-color rice_white #DCF3FA;
+@define-color rice_red #D16041;
+@define-color rice_green #9ECE6A;
+
+window,
+.background {
+    background-color: @rice_bg;
+    color: @rice_cyan;
+}
+
+label {
+    color: @rice_cyan;
+}
+
+button {
+    background: @rice_bg;
+    color: @rice_cyan;
+    border: 1px solid @rice_cyan;
+    border-radius: 0;
+}
+
+button:hover {
+    color: @rice_orange;
+    border-color: @rice_orange;
+}
+
+button:active,
+button:checked {
+    color: @rice_orange;
+    border-color: @rice_orange;
+}
+
+selection {
+    background-color: @rice_orange;
+    color: @rice_bg;
+}

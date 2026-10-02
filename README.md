@@ -1,4 +1,26 @@
-# Post-Apollo NeonRetro
+✦︎✦︎✦︎ Meta Apollo Logos //
+
+# ✮˙๋࣭⭑ POST-APOLLO // NEONRETRO
+
+![](BUILD/assets/design/chassis/focus-rail.svg)
+
+> **STATE //** active \~\~ **VIEW //** compatibility theme
+
+> **NeonRetro is the Post-Apollo compatibility theme for GTK and related desktop toolkits.**
+
+### 🧭 MAP // REPOSITORY
+
+![](BUILD/assets/design/chassis/nav-rail.svg)
+
+// [🧭 ATLAS](./ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](./MODEL/) \~\~ // [🖨 BUILD](./BUILD/) \~\~ // [⚒ DEV](./DEV/) \~\~ // [🖳 OPERATE](./OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](./EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](./ARCHIVE/)
+
+---
+
+### ★⋆˙ CORE // COMPATIBILITY LAYER
+
+NeonRetro keeps toolkit-native directories because those paths are part of the theme package itself. Meta Apollo rooms describe the package without flattening it into a new filesystem.
+
+---
 
 NeonRetro compatibility theme used by the Post-Apollo desktop.
 

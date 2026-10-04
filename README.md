@@ -1,6 +1,6 @@
 ✦︎✦︎✦︎ Meta Apollo Logos //
 
-# ✮˙๋࣭⭑ POST-APOLLO // NEONRETRO
+# ✮˙๋࣭⭑ POST-APOLLO // NEON RETRO
 
 ![](BUILD/assets/design/chassis/focus-rail.svg)
 

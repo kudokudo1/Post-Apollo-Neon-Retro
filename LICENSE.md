@@ -26,6 +26,10 @@ Brand assets described below are excluded from that grant unless expressly marke
 
 Third-party, inherited, vendored, generated, archived, or separately licensed material keeps its own license and notices. Nothing here removes rights already granted by another applicable license or by law.
 
+For this repository specifically, substantial GTK, Cinnamon, Openbox, XFWM, Metacity, Unity, and related theme material is derived from the Oomox/Numix theme ecosystem. Some inherited files explicitly state GPL-3.0+ terms. See [THIRD_PARTY_NOTICE.md](./THIRD_PARTY_NOTICE.md).
+
+**The Post-Apollo noncommercial license does not apply to GPL-covered inherited theme files and does not add a noncommercial restriction to the GPL rights already granted for those files.**
+
 ## COMMUNITY
 
 Meta Apollo is interested in relationships between people, tools, machines, ideas, environments, and the things we build together.

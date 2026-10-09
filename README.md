@@ -10,7 +10,7 @@
 
 The visual compatibility layer of the Post-Apollo Family — shaping the relationship between operator, applications, visual language, continuity, environment, and expression, bringing third-party software into a shared visual identity without requiring each application to abandon its native interface.
 
-**FAMILY //** [META APOLLO LOGOS](https://github.com/kudokudo1/Meta-Apollo-Logos) · [DEV EXP](https://github.com/kudokudo1/The-Post-Apollo-Dev-Exp) · [FOREST](https://github.com/kudokudo1/The-Post-Apollo-Forest-Project) · [TASKBARS](https://github.com/kudokudo1/taskbars-post-apollo)
+**FAMILY //** [META APOLLO LOGOS](https://github.com/kudokudo1/Meta-Apollo-Logos) · [DEV EXP](https://github.com/kudokudo1/The-Post-Apollo-Dev-Exp) · [FOREST](https://github.com/kudokudo1/The-Post-Apollo-Forest-Project) · [POST-APOLLO PROJECT](https://github.com/kudokudo1/The-Post-Apollo-Project)
 
 ### 🧭 MAP // REPOSITORY
 

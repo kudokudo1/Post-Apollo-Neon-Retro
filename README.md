@@ -63,6 +63,14 @@ Some of these targets may be generated or legacy compatibility outputs.
 
 The initial Git baseline intentionally preserves all of them unchanged.
 
+## Upstream provenance
+
+Neon Retro is built from an **Oomox/Numix-derived theme package**, then recolored and adapted into the Post-Apollo visual language. Large parts of the toolkit theme tree are inherited material rather than wholly original Post-Apollo source.
+
+Some inherited files explicitly carry **GPL-3.0+** terms, which remain in force.
+
+See [THIRD_PARTY_NOTICE.md](./THIRD_PARTY_NOTICE.md) for the upstream lineage and licensing boundary.
+
 ## Theme location
 
 Current live installation:
